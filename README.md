@@ -17,7 +17,8 @@ mit Vererbung
 
 ## Umgebung
 - VS Code
-- Java 
+- Java
+- Ausnahme TerminalClient -> development in IntelliJ IDEA 2023.3.4 (Ultimate Edition) using Maven und Lanterna lib
 
 ## Package & etc
 - org.pearharmony
